@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuvans
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Game Developmetn
+- 🌱 I’ve learned Full Stack Web Development, Android App Development and Unity Game Development.
+- 💞️ I’m looking to collaborate on Project.
 - 📫 How to reach me singhyuvan1999@gmail.com
 
 <!---
